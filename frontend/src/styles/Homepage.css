@@ -1,0 +1,19 @@
+.Main {
+  color: whitesmoke;
+  background: url("/public/HomePage_2.jpg");
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+}
+.navBar {
+  padding: 0.5rem 0rem 0.5rem 1rem;
+  background: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+}
+.meetContainer {
+  width: 100vw;
+
+  color: whitesmoke;
+}
